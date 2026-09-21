@@ -18,7 +18,7 @@
 
 ### 🧠 About Me
 
-- 🎓 First-year **AI/ML Engineering** student at **Pimpri Chinchwad College of Engineering (PCCoE)**, Pune — Dept. of CSE (AI&ML)
+- 🎓**AI/ML Engineering** student at **Pimpri Chinchwad College of Engineering (PCCoE)**, Pune — Dept. of CSE (AI&ML)
 - 🛠️ Core toolkit: **Python, C/C++, JavaScript**, with a growing focus on ML pipelines and applied data science
 - 🎮 When not coding: into gaming, music, and generally tinkering with things until they work (or explode nicely)
 - ✨ I like my outputs the way I like my interfaces — **dark, neon, and a little dramatic**
