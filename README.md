@@ -3,7 +3,7 @@
 <h3 align="center">AI/ML Engineering Student · Builder of Things That Probably Didn't Need to Exist (But Are Cool)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI%2FML+student+%40+PCCoE%2C+Pune;Python+%7C+C%2FC%2B%2B+%7C+ML+%7C+JavaScript;Building+ML+pipelines%2C+RAG+apps%2C+and+weird+side+projects;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI%2FML+student+%40+PCCoE%2C+Pune;Python+%7C+C%2FC%2B%2B+%7C+ML+%7C+JavaScript;" alt="Typing SVG" />
 </p>
 
 <p align="center">
