@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adwaitumredkar1818&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" />
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=22D3EE" />
   <img src="https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" />
   <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=22D3EE" />
