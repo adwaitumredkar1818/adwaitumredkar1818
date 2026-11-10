@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18&height=240&section=header&text=Adwait&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20the%20making&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="banner.gif" width="100%" alt="Adwait's profile banner" style="border-radius: 12px;" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18&height=200&section=header&text=Hey%2C%20I'm%20Adwait%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineering%20Student%20%C2%B7%20PCCoE%2C%20Pune&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=AI%2FML+student+%40+PCCoE%2C+Pune;Building+ML+pipelines+and+RAG+apps;Python+%7C+C%2FC%2B%2B+%7C+JavaScript;Things+that+probably+didn't+need+to+exist+but+are+cool" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+ML+pipelines+and+RAG+apps;Python+%7C+C%2FC%2B%2B+%7C+JavaScript;Things+that+probably+didn't+need+to+exist+but+are+cool" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -89,6 +93,17 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adwaitumredkar1818&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18&height=3&section=header" width="100%" alt="divider" />
+
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,12,18&height=3&section=header" width="100%" alt="divider" />
