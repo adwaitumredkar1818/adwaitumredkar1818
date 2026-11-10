@@ -103,8 +103,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg" />
-    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg](https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/main/profile-3d-contrib/profile-night-rainbow.svg)" />
+    <img alt="3D contribution graph" src="[https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/output/profile-3d-contrib/profile-night-rainbow.svg](https://raw.githubusercontent.com/adwaitumredkar1818/adwaitumredkar1818/main/profile-3d-contrib/profile-night-rainbow.svg)" />
   </picture>
 </p>
 
