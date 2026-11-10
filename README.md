@@ -1,10 +1,12 @@
-<div align="center">
-  <img src="banner.gif" width="100%" alt="Adwait's profile banner" style="border-radius: 12px;" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,18&height=200&section=header&text=Hey%2C%20I'm%20Adwait%20👋&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineering%20Student%20%C2%B7%20PCCoE%2C%20Pune&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 </div>
+
+<div align="center">
+  <img src="banner.gif" width="100%" alt="Adwait's profile banner" style="border-radius: 12px;" />
+</div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+ML+pipelines+and+RAG+apps;Python+%7C+C%2FC%2B%2B+%7C+JavaScript;Things+that+probably+didn't+need+to+exist+but+are+cool" alt="Typing animation" />
